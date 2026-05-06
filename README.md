@@ -35,9 +35,11 @@
 
 <td width="32%" align="center">
 
-<img src="" 
-width="220" 
-style="border-radius:50%; border:4px solid #00F7FF;" />
+<img src="https://raw.githubusercontent.com/DEVS-shakti/DEVS-shakti/refs/heads/main/ChatGPT%20Image%20May%206%2C%202026%2C%2009_18_38%20AM.png"
+width="220"
+style="border-radius:50%;
+border:4px solid #00F7FF;
+box-shadow:0 0 25px #00F7FF;" />
 
 </td>
 </tr>
